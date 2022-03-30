@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![stats](https://github-readme-stats.vercel.app/api?username=adityabavadekar&count_private=true&hide=contribs&show_icons=true)
+<!--![stats](https://github-readme-stats.vercel.app/api?username=adityabavadekar&count_private=true&hide=contribs&show_icons=true)-->
 
 <!---
 AdityaBavadekar/AdityaBavadekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
