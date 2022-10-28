@@ -6,7 +6,7 @@ I’m interested in Android and Python primarily.
 - [**Messegner-Android**](https://github.com/AdityaBavadekar/Messenger) project.
 
 
-### 📫 How to reach me : bvkraditya@gmail.com
+### 📫 How to reach me : projectsandstudiesaditya@gmail.com
 
 <!---
 AdityaBavadekar/AdityaBavadekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
