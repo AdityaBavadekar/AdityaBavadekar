@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AdityaBavadekar
 
-I’m interested in Android and Python primarily.
+I’m interested in Kotlin, Android, Python and C++ primarily.
 
 ### :handshake: I’m looking to collaborate on
 - [**Messegner-Android**](https://github.com/AdityaBavadekar/Messenger) project.
