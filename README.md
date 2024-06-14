@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityabavadekar&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true" alt="Github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact&theme=github_dark" alt="Top Langs" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
