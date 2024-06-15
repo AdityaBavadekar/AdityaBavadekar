@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact&theme=github_dark" alt="Top Langs" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
+<img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast" alt="GitHub Streak" />
