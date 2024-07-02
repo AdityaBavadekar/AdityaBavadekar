@@ -32,11 +32,11 @@ You can click the Preview link to take a look at your changes.
   </picture>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AdityaBavadekar&theme=highcontrast" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DenverCoder1&theme=default" />
     <img align="center" src="https://streak-stats.demolab.com/?user=AdityaBavadekar" alt="GitHub Streak" />
   </picture>
-</p>
+</p>-->
 
