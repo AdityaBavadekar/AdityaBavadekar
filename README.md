@@ -16,13 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adityabavadekar&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adityabavadekar&theme=dark&include_all_commits=true&count_private=true&show_icons=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adityabavadekar&theme=default&include_all_commits=true&count_private=true&show_icons=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityabavadekar&include_all_commits=true&count_private=true&show_icons=true" alt="Github stats" />
   </picture>
 </p>
-
-
 
 <p align="center">
   <picture>
