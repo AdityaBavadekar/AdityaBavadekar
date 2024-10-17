@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AdityaBavadekar
 
-I’m interested in Kotlin, Android, Python, Web dev and C++ primarily. Also very interested in Backend/Database.
+I’m interested in Python, Web development, C++, Backend/Database .
 
 ### :handshake: I’m looking to collaborate on
 - [**Messegner-Android**](https://github.com/AdityaBavadekar/Messenger) project.
