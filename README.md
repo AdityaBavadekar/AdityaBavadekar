@@ -2,9 +2,6 @@
 
 I’m interested in Python, Web development, C++, Backend/Database .
 
-### :handshake: I’m looking to collaborate on
-- [**Messegner-Android**](https://github.com/AdityaBavadekar/Messenger) project.
-
 - 📫 How to reach me : projectsandstudiesaditya@gmail.com
 
 
