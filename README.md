@@ -2,7 +2,8 @@
 
 I’m interested in Python, Web development, C++, Backend/Database .
 
-- Also working on assistant in free time - [see one of the test demo Youtube video](https://youtu.be/kcA6S0o8XcA?feature=shared)
+- Side Projects
+  - Building an **Asistant** in spare free time - [demo youtube video](https://youtu.be/kcA6S0o8XcA?feature=shared)
 
 - 📫 How to reach me : projectsandstudiesaditya@gmail.com
 
