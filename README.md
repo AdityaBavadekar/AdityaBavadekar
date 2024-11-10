@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact&theme=github_dark&hide_progress=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact&theme=default&hide_progress=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact" alt="Top Langs" />
   </picture>
 </p>
