@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AdityaBavadekar
 
-I’m interested in Python, Web development, C++, Backend/Database .
+I’m interested in Python, Web development, C++, Backend/Database, Open source.
 
 - 📫 How to reach me : projectsandstudiesaditya@gmail.com
 - Working on [aragot-assistant](https://www.youtube.com/watch?v=kcA6S0o8XcA) and many other things.
