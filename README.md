@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# 👋 Hi, I’m @AdityaBavadekar
+# Hi, I’m Aditya Bavadekar
 
 I’m interested in Python, Web development, C++, Backend/Database, Open source and Terminals <img src="https://skillicons.dev/icons?i=linux" width="15" />
  
