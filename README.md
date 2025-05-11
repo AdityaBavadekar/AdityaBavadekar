@@ -3,7 +3,7 @@
 
 # Hi, I’m Aditya Bavadekar
 
-I’m interested in Python, Web development, C++, Backend/Database, Open source and Terminals <img src="https://skillicons.dev/icons?i=linux" width="15" />
+I’m interested in Python, Web development, C++, Backend/Database, Open source and Terminals <img src="https://skillicons.dev/icons?i=linux" width="13" />
  
 Working on [aragot-assistant](https://www.youtube.com/watch?v=kcA6S0o8XcA) and many other things.
 
@@ -24,13 +24,13 @@ You can click the Preview link to take a look at your changes.
   </picture>
 </p>
 
-<!--<p align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact&theme=github_dark&hide_progress=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact&theme=default&hide_progress=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabavadekar&layout=compact" alt="Top Langs" />
   </picture>
-</p>-->
+</p>
 <br/>
 
 
